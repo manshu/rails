@@ -23,6 +23,8 @@ gem 'jbuilder', '~> 2.7'
 # gem 'bcrypt', '~> 3.1.7'
 gem 'postgres', '~> 0.8.1'
 
+gem 'pg'
+
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
